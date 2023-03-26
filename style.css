@@ -32,7 +32,7 @@
   position: relative;
   top: 130px;
   left: 480px;
-  animation: block 1s infinite linear;
+  animation: block 1.34s infinite linear;
 }
 @keyframes block {
   0%{left: 480px;}
